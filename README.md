@@ -14,7 +14,7 @@ CSS </br>
 
 ### 🎴 Imagem do projeto
 
-![calculado-imc](https://user-images.githubusercontent.com/114628700/221171816-7f984668-0b33-46d5-b6f7-a1c2bb14b715.jpg)
+![calculado-imc](https://user-images.githubusercontent.com/114628700/221172019-fbaf6af5-2833-4705-89e9-bc5e9104a3b4.jpg)
 
 
 </br>
